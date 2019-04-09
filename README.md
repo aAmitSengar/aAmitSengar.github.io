@@ -1,2 +1,2 @@
-# aAmitSengar.github.io
-game
+# monopolyGame
+Just for fun
